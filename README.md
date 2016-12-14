@@ -1,0 +1,2 @@
+# XcodeTargetCheck
+检查Xcode项目的project文件中，target是否被人误删，并发送邮件告警
